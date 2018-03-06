@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 
-main()
+int main()
 {
 printf ("1 | R | H | E | Q | K | E | H | R |\n");
 printf ("  |-------------------------------|\n");
